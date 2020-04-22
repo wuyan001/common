@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hs</string>
+
+
+    <string name="empty_msg">没有数据</string>
+    <string name="failed_msg">出错了</string>
+
+</resources>

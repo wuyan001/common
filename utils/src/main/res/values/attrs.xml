@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleView">
+        <attr name="title" format="string"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="backgroundcolor" format="color"/>
+        <attr name="textsize" format="dimension"/>
+        <attr name="showback" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="StrongEdittext">
+        <attr name="text" format="string"/>
+        <attr name="showedit" format="boolean"/>
+        <attr name="hint" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="TotalView">
+        <attr name="num" format="integer"/>
+        <attr name="color_total" format="color"/>
+        <attr name="color" format="color"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="MyProgressBar">
+        <attr name="mode" format="integer"/>
+    </declare-styleable>
+</resources>

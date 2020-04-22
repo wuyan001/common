@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/software_input_layout"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/c109"
+        android:focusable="true"
+        android:visibility="gone"
+        android:orientation="horizontal"
+        android:focusableInTouchMode="true"
+        android:padding="@dimen/dimen_2dp"
+        >
+
+        <TextView
+            android:id="@+id/software_input_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:ellipsize="start"
+            android:gravity="center_vertical"
+            android:paddingLeft="22dp"
+            android:paddingRight="22dp"
+            android:text="筐皮:"
+            android:textColor="@color/c102"
+            />
+
+        <EditText
+            android:id="@+id/software_input_edit"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="center_vertical"
+            android:imeOptions="actionNone|flagNoExtractUi"
+            android:inputType="numberDecimal"
+            android:textColor="@color/c102"
+            />
+
+        <TextView
+            android:id="@+id/software_input_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/dimen_18dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/dimen_6dp"
+            android:paddingRight="@dimen/dimen_6dp"
+            android:text="清空"
+            android:textColor="@drawable/selector_sort_text_color"
+            android:textSize="@dimen/f103"
+            />
+
+        <TextView
+            android:id="@+id/software_input_option"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="36dp"
+            android:gravity="center_vertical"
+            android:text="确定"
+            android:textColor="@drawable/selector_sort_text_color"
+            android:textSize="@dimen/f103"
+            />
+    </LinearLayout>
+</RelativeLayout>

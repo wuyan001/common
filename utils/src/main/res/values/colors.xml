@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#008577</color>
+    <color name="colorControlNormal">#FF4081</color>
+
+
+    <!--新UI规范  20180228 start-->
+    <color name="text">#666666</color>
+    <color name="pb">#008577</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_40">#64000000</color>
+    <color name="blue_transparent_40">#6411b7f3</color>
+    <color name="transparent_30">#30000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ddd">#dddddd</color>
+    <color name="gray">#FF888888</color>
+    <!--dialog-->
+    <color name="grayBlack">#3D3D3D</color>
+    <color name="line_divider">#808A87</color> <!--线段-->
+    <color name="item_grouplist_normal">#ffffff</color>
+    <color name="item_grouplist_press">#33666666</color>
+    <!--dialog end-->
+
+
+    <color name="c100">#11b7f3</color>
+    <color name="c100_t">#3f11b7f3</color>
+    <color name="c101">#11b7f3</color>
+    <color name="c102">#333333</color>
+    <color name="c103">#999999</color>
+    <color name="c104">#FFFFFF</color>
+    <color name="c105">#ff0000</color>
+    <color name="c106">#ef5e49</color>
+    <color name="c107">#fdcd00</color>
+    <color name="c108">#cccccc</color>
+    <color name="c109">#eeeeee</color>
+    <color name="cbg">#f8f8f8</color>
+    <color name="c111">#88cf41</color>
+    <color name="c141">#7ee21a</color>
+    <color name="c112">#e7f7fd</color>
+    <color name="c113">#666666</color>
+    <color name="c114">#f67d46</color>
+    <color name="c115">#c32fef</color>
+    <color name="c116">#006bbd</color>
+    <color name="c117">#eef8e5</color>
+    <color name="c118">#ffe5e5</color>
+    <color name="c121">#20cab0</color>
+    <color name="c127">#1cb69e</color>
+    <color name="c120">#f86c9a</color>
+    <color name="c126">#de608a</color>
+    <color name="c122">#eec100</color>
+    <color name="c123">#0d96c8</color>
+    <color name="c129">#dea600</color>
+    <color name="c130">#dd703f</color>
+    <color name="c119">#0fa5db</color>
+    <color name="c125">#73e0f5</color>
+    <color name="c124">#000000</color>
+    <!--软键盘-->
+    <color name="c132">#D3D3D3</color><!--亮灰色 -->
+      
+    <color name="c131">#003399</color>
+    <color name="c128">#3366cc</color>
+    <color name="c133">#2c8cf7</color>
+
+    <!--index-->
+    <color name="side_bar_text">#058af0</color>
+    <color name="shadow_bg">#66000000</color>
+    <color name="lightgray">#D3D3D3</color><!--亮灰色 -->   
+
+</resources>

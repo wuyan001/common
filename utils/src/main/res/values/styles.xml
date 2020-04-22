@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+    <item name="globalframelayout" type="id" />
+    <item name="dataContent_fail" type="id" />
+    <item name="dataContent_loading" type="id" />
+    <item name="dataContent_empety" type="id" />
+
+
+    <item name="titleview" type="id" />
+    <item name="totalview" type="id" />
+
+
+    <!--白字-->
+    <style name="text_c104_f101">
+        <item name="android:textColor">@color/c104</item>
+        <item name="android:textSize">@dimen/f101</item>
+    </style>
+    <!--正常蓝色字14sp-->
+    <style name="text_c101_f104">
+        <item name="android:textColor">@color/c101</item>
+        <item name="android:textSize">@dimen/f104</item>
+    </style>
+    <!--正常蓝色字20sp-->
+    <style name="text_c101_f101">
+        <item name="android:textColor">@color/c101</item>
+        <item name="android:textSize">@dimen/f101</item>
+    </style>
+
+
+</resources>
